@@ -43,3 +43,6 @@ We want everyone to be able to play the game on all desktop platforms (Windows, 
 [![Youtube](https://img.shields.io/badge/TheChernoProject--red.svg?style=social&logo=youtube)](https://www.youtube.com/user/TheChernoProject)
 [![Discord](https://img.shields.io/badge/TheCherno%20Server--blue.svg?style=social&logo=Discord)](https://discord.gg/K2eSyQA)
 [![Patreon](https://img.shields.io/badge/%40thecherno--green.svg?style=social&logo=Patreon)](https://patreon.com/thecherno)
+
+## Binaries
+I Will Be Updating Continuous binaries in this Forked Hazel Engine. Be Sure to Catch Up
